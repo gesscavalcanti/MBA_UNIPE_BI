@@ -1,0 +1,13 @@
+3) Quais cuidados devem ser observados ao capturar dados de um site?
+- Não viola os termos de uso
+- Direitos autorais
+- Não coleta dados sensíveis
+- O scraping não onera o serviço do site
+
+4) Quais ameaças capturas automáticas proporcionam para sistemas web?
+
+Podem ser utilizadas de forma maliciosa, por exemplo: desconsiderando os termos de serviço do site e sem permissão dos proprietários.Uma maneira abusiva de solicitações de dados levaria a falhas do servidor da Web sob carga adicional.
+
+5) Você diria que bots ou crawlers são programas facilmente paralelizáveis? Se sim, explique como isso seria implementado dando um exemplo.
+
+Podem ser aplicadas mais facilmente dividindo a tarefa em subtarefas independentes umas das outras. Nesse caso, não é necessário uma ordem na execução e troca de informações entre elas, sendo mais fácil de paralelizar.
